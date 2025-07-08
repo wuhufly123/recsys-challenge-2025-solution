@@ -16,7 +16,7 @@ To achieve this, we introduce the concept of Universal Behavioral Profiles—use
 In order to improve the readability of the code, I changed some parts of the code (such as the names of variables and functions), so there is a slight difference between the code I used in the contest. This can lead to bugs in some places. If you find that the results are difficult to reproduce, or you find bugs that are difficult to fix, you can ask by email.
 
 # Team members
-We participated in the challenge as rirka, a team of 5 MSc from East China Normal University:
+We participated in the challenge as rirka, a team of 6 MSc from East China Normal University:
 
 Minhao Wang <br>
 Ruizhi Zhang <br>
